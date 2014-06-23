@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  marca: MyString
+  modelo: MyString
+  año: MyString
+  kilometraje: 1
+  precio: MyString
+  placa: MyString
+  motor: MyString
+  color: MyString
+  vendedor_id: 1
+
+two:
+  marca: MyString
+  modelo: MyString
+  año: MyString
+  kilometraje: 1
+  precio: MyString
+  placa: MyString
+  motor: MyString
+  color: MyString
+  vendedor_id: 1
